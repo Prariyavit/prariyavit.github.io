@@ -6,7 +6,7 @@
 echo "Hi"
 ```
 
-### Contributors
+### Collaborator
 
 <!--
 <a href="https://github.com/Prariyavit/Prariyavit.github.io/graphs/contributors">
