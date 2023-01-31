@@ -1,39 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style type="text/tailwindcss">
-      @layer components {
-        .box {
-          @apply shadow-md border-2 w-64 h-52 rounded-lg;
-        }
-      }
-    </style>
-    <title>Document</title>
-  </head>
-  <body>
-    <header class="flex justify-center bg-green-200 h-16 items-center">
-      <h1 class="font-bold text-xl">Try git with team</h1>
-    </header>
-    <main>
-      <h2 class="flex justify-center text-lg my-8">collaborator</h2>
-      <div class="flex justify-between mx-8">
-        <div class="box">
-          <p>Prariyavit</p>
-        </div>
-        <div class="box">
-          <p>xssxx</p>
-        </div>
-        <div class="box">
-          <p>JIMpk2w</p>
-        </div>
-        <div class="box">
-          <p>Pariyanuch</p>
-        </div>
-      </div>
-    </main>
-  </body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="https://cdn.tailwindcss.com"></script>
+        <style type="text/tailwindcss">
+            @layer components {
+                body {
+                    @apply font-mono;
+                }
+                .box {
+                    @apply shadow-md border-2 w-[280px] h-52 rounded-lg p-3;
+                }
+                .img {
+                    @apply w-16 h-16 mb-2 rounded-[50%];
+                }
+                p {
+                    @apply text-sm;
+                }
+            }
+        </style>
+        <title>Document</title>
+    </head>
+    <body>
+        <header class="flex justify-center bg-gray-800 h-16 items-center">
+            <h1 class="font-bold text-2xl text-white">Try git with team</h1>
+        </header>
+        <main>
+            <h2 class="flex justify-center text-xl my-8">Collaborator</h2>
+            <div class="flex justify-between mx-12">
+                <!-- Prariyavit -->
+
+                <div class="box">
+                    <div class="img">
+                        <a href="https://github.com/Prariyavit"><img class="rounded-[50%]" src="https://avatars.githubusercontent.com/u/118101686?v=4" /></a>
+                    </div>
+                    <div class="flex">
+                        <a href="https://github.com/Prariyavit">
+                            <p class="text-base cursor-pointer hover:text-blue-700 font-medium">
+                                Prariyavit
+                            </p>
+                        </a>
+                        <a href="https://github.com/Prariyavit">
+                            <p class="mt-[2.5px] text-gray-400 px-2 cursor-pointer hover:text-blue-600">
+                                Prariyavit
+                            </p>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- X -->
+
+                <div class="box">
+                    <div class="img">
+                        <a href="https://github.com/xssxx"><img class="rounded-[50%]" src="https://avatars.githubusercontent.com/u/25734251?s=64&v=4" /></a>
+                    </div>
+                    <div class="flex">
+                        <a href="https://github.com/xssxx">
+                            <p class="text-base cursor-pointer hover:text-blue-700 font-medium">
+                                xssxx
+                            </p>
+                        </a>
+                        <a href="https://github.com/xssxx">
+                            <p class="mt-[2.5px] text-gray-400 px-2 cursor-pointer hover:text-blue-600">
+                                X
+                            </p>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- JIM -->
+
+                <div class="box">
+                    <div class="img">
+                        <a href="https://github.com/JIMpk2w">
+                            <img class="rounded-[50%]" src="https://avatars.githubusercontent.com/u/122210019?v=4" />
+                        </a>
+                    </div>
+                    <div class="flex">
+                        <a href="https://github.com/JIMpk2w">
+                            <p class="text-base cursor-pointer hover:text-blue-700 font-medium">
+                                JIMpk2w
+                            </p>
+                        </a>
+                        <a href="https://github.com/JIMpk2w">
+                            <p class="mt-[2.5px] text-gray-400 px-2 cursor-pointer hover:text-blue-600">
+                                pakawat panklang
+                            </p>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- AI -->
+
+                <div class="box">
+                    <div class="img">
+                        <a href="https://github.com/Pariyanuch"><img class="rounded-[50%]" src="https://avatars.githubusercontent.com/u/123322981?s=64&v=4" /></a>
+                    </div>
+                    <div class="flex">
+                        <a href="https://github.com/Pariyanuch">
+                            <p class="text-base cursor-pointer hover:text-blue-700 font-medium">
+                                Pariyanuch
+                            </p>
+                        </a>
+                        <a href="https://github.com/Pariyanuch">
+                            <p class="mt-[2.5px] text-gray-400 px-2 cursor-pointer hover:text-blue-600">
+                                Pariyanuch Mungkung
+                            </p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
 </html>
