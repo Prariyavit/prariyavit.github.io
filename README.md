@@ -24,7 +24,7 @@ echo "Hi"
 <a href="https://github.com/mindptnie"><img height="48px" src="https://avatars.githubusercontent.com/u/117892926?s=64&v=4"></a>
 </div>
 
-### How to work
+### How to work for Collaborator
 
 - ดาวน์โหลดโฟลเดอร์ && เข้าโฟลเดอร์
 ```bash
