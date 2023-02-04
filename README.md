@@ -24,3 +24,40 @@ echo "Hi"
 <a href="https://github.com/mindptnie"><img height="48px" src="https://avatars.githubusercontent.com/u/117892926?s=64&v=4"></a>
 </div>
 
+### How to work for Collaborator
+
+- ดาวน์โหลดโฟลเดอร์ && เข้าโฟลเดอร์
+```bash
+git clone https://github.com/Prariyavit/Prariyavit.github.io.git
+cd Prariyavit.github.io
+```
+
+- สร้าง branch แยก && เข้าไปที่ branch นั้น `ถ้าไม่แยก branch = ข้าม (ทำใน main เลย)`
+```bash
+git branch <ชื่อ branch>
+git checkout <ชื่อ branch>
+```
+
+- สร้างไฟล์ && ใส่ข้อความ
+```bash
+echo "Hello" > test.txt
+```
+
+- แอดไฟล์เข้า stage && commit ข้อความ
+```bash
+git add test.txt
+git commit -m "add test.txt"
+```
+
+- อัพโหลด branch เข้า github server
+```bash
+git push origin <ชื่อ branch>
+```
+
+
+
+
+
+
+
+
