@@ -6,7 +6,7 @@
 echo "Hi"
 ```
 
-### How to work for Collaborator
+### How to work (for Collaborator)
 
 - ดาวน์โหลดโฟลเดอร์ && เข้าโฟลเดอร์
 ```bash
