@@ -38,7 +38,7 @@ git branch <ชื่อ branch>
 git checkout <ชื่อ branch>
 ```
 
-- สร้างไฟล์สักไฟล์ && ใส่ข้อความ
+- สร้างไฟล์ && ใส่ข้อความ
 ```bash
 echo "Hello" > test.txt
 ```
