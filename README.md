@@ -8,12 +8,6 @@ echo "Hi"
 
 ### Collaborator
 
-<!--
-<a href="https://github.com/Prariyavit/Prariyavit.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Prariyavit/Prariyavit.github.io" />
-</a>
--->
-
 <div style="display: flex;">
 <a href="https://github.com/Prariyavit"><img height="48px" src="https://avatars.githubusercontent.com/u/118101686?v=4"></a>
 <a href="https://github.com/xssxx"><img height="48px" src="https://avatars.githubusercontent.com/u/25734251?v=4"></a>
@@ -53,11 +47,3 @@ git commit -m "add test.txt"
 ```bash
 git push origin <ชื่อ branch>
 ```
-
-
-
-
-
-
-
-
