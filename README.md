@@ -20,5 +20,6 @@ echo "Hi"
 <a href="https://github.com/JIMpk2w"><img height="48px" src="https://avatars.githubusercontent.com/u/122210019?v=4"></a>
 <a href="https://github.com/Pariyanuch"><img height="48px" src="https://avatars.githubusercontent.com/u/123322981?v=4"></a>
 <a href="https://github.com/DEASII"><img height="48px" src="https://avatars.githubusercontent.com/u/121237034?v=4"></a>
+<a href="https://github.com/PasinGtxooo"><img height="48px" src="https://avatars.githubusercontent.com/u/123355198?s=120&v=4"></a>
 </div>
 
