@@ -46,5 +46,6 @@ git push origin <ชื่อ branch>
 <a href="https://github.com/DEASII"><img height="48px" src="https://avatars.githubusercontent.com/u/121237034?v=4"></a>
 <a href="https://github.com/PasinGtxooo"><img height="48px" src="https://avatars.githubusercontent.com/u/123355198?s=120&v=4"></a>
 <a href="https://github.com/mindptnie"><img height="48px" src="https://avatars.githubusercontent.com/u/117892926?s=64&v=4"></a>
+<a href="https://github.com/Ppleang"><img height="48px" src="https://avatars.githubusercontent.com/u/117893090?v=4"></a>
 </div>
 
