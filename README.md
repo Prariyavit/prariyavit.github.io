@@ -1,51 +1,29 @@
-## Try git with team
+# web
 
-### [Visit our site](https://Prariyavit.github.io) or https://Prariyavit.github.io
+This template should help get you started developing with Vue 3 in Vite.
 
-```bash
-echo "Hi"
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
 ```
 
-### How to work (for Collaborator)
+### Compile and Hot-Reload for Development
 
-- ดาวน์โหลดโฟลเดอร์ && เข้าโฟลเดอร์
-```bash
-git clone https://github.com/Prariyavit/Prariyavit.github.io.git
-cd Prariyavit.github.io
+```sh
+npm run dev
 ```
 
-- สร้าง branch แยก && เข้าไปที่ branch นั้น `ถ้าไม่แยก branch = ข้าม (ทำใน main เลย)`
-```bash
-git branch <ชื่อ branch>
-git checkout <ชื่อ branch>
+### Compile and Minify for Production
+
+```sh
+npm run build
 ```
-
-- สร้างไฟล์ && ใส่ข้อความ
-```bash
-echo "Hello" > test.txt
-```
-
-- แอดไฟล์เข้า stage && commit ข้อความ
-```bash
-git add test.txt
-git commit -m "add test.txt"
-```
-
-- อัพโหลด branch เข้า github server
-```bash
-git push origin <ชื่อ branch>
-```
-
-### Collaborator
-
-<div style="display: flex;">
-<a href="https://github.com/Prariyavit"><img height="48px" src="https://avatars.githubusercontent.com/u/118101686?v=4"></a>
-<a href="https://github.com/xssxx"><img height="48px" src="https://avatars.githubusercontent.com/u/25734251?v=4"></a>
-<a href="https://github.com/JIMpk2w"><img height="48px" src="https://avatars.githubusercontent.com/u/122210019?v=4"></a>
-<a href="https://github.com/Pariyanuch"><img height="48px" src="https://avatars.githubusercontent.com/u/123322981?v=4"></a>
-<a href="https://github.com/DEASII"><img height="48px" src="https://avatars.githubusercontent.com/u/121237034?v=4"></a>
-<a href="https://github.com/PasinGtxooo"><img height="48px" src="https://avatars.githubusercontent.com/u/123355198?s=120&v=4"></a>
-<a href="https://github.com/mindptnie"><img height="48px" src="https://avatars.githubusercontent.com/u/117892926?s=64&v=4"></a>
-<a href="https://github.com/Ppleang"><img height="48px" src="https://avatars.githubusercontent.com/u/117893090?v=4"></a>
-</div>
-
