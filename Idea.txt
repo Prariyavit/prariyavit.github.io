@@ -1,2 +1,0 @@
-1. Users login system (Google oauth api ??)
-2. Realtime chat (socket.io)
